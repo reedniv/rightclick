@@ -1,4 +1,4 @@
-// https://github.com/reedniv/blog/blob/master/Javascript/Disable-Functions.js
+// https://cdn.jsdelivr.net/gh/reedniv/rightclick/1.0/js/rclick.js
 shortcut = {
 	all_shortcuts : {},
 	add : function (e, t, n) {
